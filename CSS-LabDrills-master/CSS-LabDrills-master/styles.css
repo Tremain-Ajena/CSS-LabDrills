@@ -32,72 +32,32 @@ a:hover{
     width: 30em;
 }
 
-#box1{
+.one{
     background-color: rgb(101, 13, 184);
 }
-#box2{
+.two{
     background-color: rgb(18, 18, 194);
 }
-#box3{
+.three{
     background-color: rgb(86, 27, 141);
 }
-#box4{
+.four{
     background-color: rgb(141, 15, 15);
 }
 
-.image {
+.image{
     height: 50px;
     width: 50px;
     border-radius: 50px;
     background-color: bisque;
 }
 
-.image {
+.image{
     position: relative;
     top: 50px;
     left: 100px;
 }
 
-h1 {
+h1{
     color: rgb(116, 20, 206);
-}
-
-.original {
-    color: aqua;
-}
-
-.additional {
-    color: cadetblue;
-}
-
-#show1 {
-    color: chartreuse;
-}
-#show2 {
-    color: chocolate;
-}
-#show3 {
-    color: crimson;
-}
-#show4 {
-    color: darkgreen;
-}
-#show5 {
-    color: darkmagenta;
-}
-
-ul {
-    color: rgb(206, 117, 9);
-}
-
-.star {
-    color: orangered;
-}
-
-.wars {
-    color: olive;
-}
-
-.list {
-    border: 2px solid black;
 }
