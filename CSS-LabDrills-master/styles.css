@@ -1,0 +1,59 @@
+body{
+    font-family: "Georgia", serif;
+    background-color: rgb(194, 186, 186);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(7, 121, 83);
+}
+
+a:hover{
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(25, 25, 206);
+}
+
+.isolation{
+    color: brown;
+    font-weight: 800;
+}
+
+.boxes{
+    display: block;
+    margin: 0 auto;
+    padding: 2em;
+    border: 4px solid rgb(6, 61, 6);
+    border-radius: 4px;
+    width: 30em;
+}
+
+.one{
+    background-color: rgb(101, 13, 184);
+}
+.two{
+    background-color: rgb(18, 18, 194);
+}
+.three{
+    background-color: rgb(86, 27, 141);
+}
+.four{
+    background-color: rgb(141, 15, 15);
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: bisque;
+}
+
+.image{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
